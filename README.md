@@ -1,6 +1,5 @@
 # split-widget
-<br>
-echo "# split-widget" >> README.md
+<br>echo "# split-widget" >> README.md
 <br>
 git init
 <br>
