@@ -16,7 +16,6 @@ git push -u origin main
 <br>
 
 ### push
-<br>
 git remote add origin https://github.com/KaziSadibReza/split-widget.git
 <br>
 git branch -M main
